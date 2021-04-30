@@ -4,6 +4,7 @@
 
 |Build|Cppcheck|Codacy|
 |:--:|:--:|:--:|
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/4a2d49f52f984d0cb6d63ca3e9914a7e)](https://app.codacy.com/gh/AchuthaVVyas/Ltts_Embedded_systems_259902?utm_source=github.com&utm_medium=referral&utm_content=AchuthaVVyas/Ltts_Embedded_systems_259902&utm_campaign=Badge_Grade_Settings)
 |[![Compile-Linux](https://github.com/AchuthaVVyas/Ltts_Embedded_systems_259902/actions/workflows/Compile.yml/badge.svg)](https://github.com/AchuthaVVyas/Ltts_Embedded_systems_259902/actions/workflows/Compile.yml)|[![Cppcheck](https://github.com/AchuthaVVyas/Ltts_Embedded_systems_259902/actions/workflows/codeQuality.yml/badge.svg)](https://github.com/AchuthaVVyas/Ltts_Embedded_systems_259902/actions/workflows/codeQuality.yml)||
 
 ### Activity 1: 
