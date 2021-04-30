@@ -1,5 +1,11 @@
 # Ltts_Embedded_systems_259902
 
+#### CI and Code Quality
+
+|Build|Cppcheck|Codacy|
+|:--:|:--:|:--:|
+|[![Compile-Linux](https://github.com/AchuthaVVyas/Ltts_Embedded_systems_259902/actions/workflows/Compile.yml/badge.svg)](https://github.com/AchuthaVVyas/Ltts_Embedded_systems_259902/actions/workflows/Compile.yml)|[![Cppcheck](https://github.com/AchuthaVVyas/Ltts_Embedded_systems_259902/actions/workflows/codeQuality.yml/badge.svg)](https://github.com/AchuthaVVyas/Ltts_Embedded_systems_259902/actions/workflows/codeQuality.yml)||
+
 ### Activity 1: 
 ![Activity1](https://user-images.githubusercontent.com/80733877/116662380-5843a380-a9b3-11eb-9436-70d5a4f1864a.png)
 
