@@ -1,6 +1,16 @@
 # Ltts_Embedded_systems_259902
+
+### Activity 1: 
 ![Activity1](https://user-images.githubusercontent.com/80733877/116662380-5843a380-a9b3-11eb-9436-70d5a4f1864a.png)
-![Activity3](https://user-images.githubusercontent.com/80733877/116662383-58dc3a00-a9b3-11eb-9901-40804391a221.png)
-![Activity3](https://user-images.githubusercontent.com/80733877/116662387-5a0d6700-a9b3-11eb-8028-637616396a57.png)
-![Final](https://user-images.githubusercontent.com/80733877/116662393-5bd72a80-a9b3-11eb-9698-007387bd01e3.png)
-![Activity2](https://user-images.githubusercontent.com/80733877/116662397-5c6fc100-a9b3-11eb-8a4b-96a1bec4d537.png)
+
+### Activity 2:
+![Activity2](https://user-images.githubusercontent.com/80733877/116662580-9214aa00-a9b3-11eb-944e-31ad9e36b067.png)
+
+### Activity 3:
+![Activity3](https://user-images.githubusercontent.com/80733877/116662621-9fca2f80-a9b3-11eb-95c3-9367ad9d0ff4.png)
+
+### Activity 4:
+![Activity4](https://user-images.githubusercontent.com/80733877/116662647-aa84c480-a9b3-11eb-97c8-ebd1b46f730b.png)
+
+### Final Simulation:
+![Final](https://user-images.githubusercontent.com/80733877/116662698-b96b7700-a9b3-11eb-9250-08336697d5e7.png)
