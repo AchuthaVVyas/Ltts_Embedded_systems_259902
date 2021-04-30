@@ -1,6 +1,6 @@
 /**
  * @file main.c
- * @author Achutha Vyas
+ * @author Achutha V Vyas
  * @brief 
  * @version 0.1
  * @date 2021-04-30
